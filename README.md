@@ -15,5 +15,5 @@ Converts a string into a decimal.
 ## Example Usage
 
 ```js
-console.log(generateDecimal('4cff4c')) // -> 5046092
+console.log(generateDecimal('4cff4c')) // 5046092
 ```
